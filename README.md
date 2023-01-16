@@ -17,6 +17,7 @@ Implement as much options below as you can:
     - `Reset All Filters` button should clear all the filters.
 1. (*) Allow to select several albums:
     - Add `is-info` class to selected categories;
+    - You should truncate text of the album name (with CSS or JS)
     - Show only photos of selected categories;
     - `All` button should clear the selection;
     - Remove `is-outlined` class from the `All` button if no categories are selected. 
