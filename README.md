@@ -21,6 +21,10 @@ Implement as much options below as you can:
     - Show only photos of selected categories;
     - `All` button should clear the selection;
     - Remove `is-outlined` class from the `All` button if no categories are selected. 
+1. (*) Implement photo reordering. 
+    - add the last column with &darr; and &uarr; buttons
+    - with moveUp button, move the item of the list to the one up position (if it's the first element - do nothing)
+    - with moveDown button, move the item of the list to the one bottom position (if it's the last element - do nothing)
 
 ## Your DEMO LINK
 
